@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+data/outputs/
+*.duckdb

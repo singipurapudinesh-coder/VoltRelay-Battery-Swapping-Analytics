@@ -1,0 +1,15 @@
+
+pandas
+numpy
+duckdb
+pyarrow
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+statsmodels
+jupyter
+ipykernel
+openpyxl
+python-docx
